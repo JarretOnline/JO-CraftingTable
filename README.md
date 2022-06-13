@@ -2,11 +2,6 @@
 Simple crafting system full configurable for QBCore
 - THIS IS A WIP SO IF SOMETHING IS NOT WORKING GOOD GIVE FEEDBACK AT MY DISCORD! :)
 
-
-Original https://github.com/Marttins011/mt-crafting
-
-
-
 # Preview:
 https://youtu.be/bo649JeniE4
 
@@ -46,7 +41,7 @@ Add to qb-target/init.lua at Config.TargetModels
                 label = "Delete Table",
             }
         },
-        distance = 4.0,
+        distance = 2.5,
     },
 ```
 
